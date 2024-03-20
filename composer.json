@@ -1,6 +1,6 @@
 {
-    "name": "swooinc/nova-countdown",
-    "description": "A countdown card for Laravel Nova.",
+    "name": "morph07/nova-countdown",
+    "description": "A countdown card for Laravel Nova. Inspired by swooinc/nova-countdown",
     "keywords": [
         "laravel",
         "nova",
