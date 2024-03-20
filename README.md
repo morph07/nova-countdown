@@ -19,7 +19,7 @@ You can pass a Carbon instance for the countdown.
 
 namespace App\Nova;
 
-use Swooinc\NovaCountdown\NovaCountdown;
+use Morph07\NovaCountdown\NovaCountdown;
 
 class User extends Resource
 {
@@ -44,4 +44,4 @@ class User extends Resource
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/swooinc/nova-countdown/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/morph07/nova-countdown/blob/master/LICENSE) for more information.
