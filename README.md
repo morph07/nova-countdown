@@ -1,13 +1,13 @@
 # Nova Countdown
 
-A countdown card for Laravel Nova.
+A countdown card for Laravel Nova. Inspired by swooinc/nova-countdown
 
 ## Installation
 
 Install the package with composer using the following command:
 
 ```
-composer require swooinc/nova-countdown
+composer require morph07/nova-countdown
 ```
 
 ## Usage
